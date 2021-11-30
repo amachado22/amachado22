@@ -1,3 +1,6 @@
+Aqui você vai encontrar vários projetos que eu tenho trabalhado
+Você também pode me desafiar no [Codewars](https://www.codewars.com/users/amachado22) onde eu estou atualmente brincando com JavaScript.
+
 
 <div align="center">
   <a href="https://github.com/amachado22">
