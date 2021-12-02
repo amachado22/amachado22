@@ -26,6 +26,12 @@
  
 </div>
 
-  <div> 
-      ![Visitor Count](https://profile-counter.glitch.me/amachado22/count.svg)
-  </div>
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/amachado22/count.svg" />
+ </p>
+
+</p>
+
