@@ -16,6 +16,7 @@
   <img align="center" alt="Dadz-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Dadz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="Dadz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Dadz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
  
@@ -24,3 +25,7 @@
   ![Snake animation](https://github.com/amachado22/amachado22/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  <div> 
+      ![Visitor Count](https://profile-counter.glitch.me/amachado22/count.svg)
+  </div>
