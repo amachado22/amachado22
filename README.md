@@ -14,13 +14,10 @@
   
   
   
-  <img align="center" alt="https://www.javascript.com/" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="https://nodejs.org/en/" height="30" width="40" src="https://camo.githubusercontent.com/e9b06389ec6ed2e4a150c88004d9da2ab513da80c294c74960981cbc482ba9ff/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f6e6f64656a735f706c61696e5f6c6f676f5f69636f6e5f3134363430392e706e67">
-  <img align="center" alt="https://git-scm.com/" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="https://www.php.net/" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="https://www.docker.com/" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="https://git-scm.com/" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="https://www.linux.org/" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="https://www.linkedin.com/in/adailton-machado-589806109/" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="https://www.linkedin.com/in/adailton-machado-589806109/" height="30" width="40" 
   
   
 </div>
