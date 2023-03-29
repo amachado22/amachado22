@@ -17,7 +17,6 @@
   <img align="center" alt="https://www.php.net/" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="https://git-scm.com/" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="https://www.linux.org/" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="https://www.linkedin.com/in/adailton-machado-589806109/" height="30" width="40" 
   
   
 </div>
